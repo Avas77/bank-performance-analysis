@@ -1,3 +1,5 @@
+<iframe title="bank" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=27061533-64f2-4797-b02b-bd09378e6f0f&autoAuth=true&ctid=962441d5-5055-4349-bad3-baec43c3d741" frameborder="0" allowFullScreen="true"></iframe>
+
 # Branch Performance & Profitability Dashboard
 
 ## Overview
